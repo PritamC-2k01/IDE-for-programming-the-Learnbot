@@ -17,3 +17,10 @@ All commits is in the follow link:
 1. [Who I am? and what will I make?](https://robocomp.github.io/web/gsoc/2017/ivan/post1)
 
 2. [LearnBlock v.0.1](https://robocomp.github.io/web/gsoc/2017/ivan/post2)
+
+# Improvements for the following versions.
+
+1. Add event-oriented programming.
+2. Add Programming via text.
+3. Translator of code text to code of blocks.
+4. Translator of code of blocks to code text.
