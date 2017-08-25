@@ -6,14 +6,14 @@ This project have a similar IDE to Scratch. The program, that is created by chil
 
 The project documentation is on the following link:
 
-![LearnBlock Documentation](https://github.com/ibarbech/learnbot/blob/master/doc/learnblock.md)
+[LearnBlock Documentation](https://github.com/ibarbech/learnbot/blob/master/doc/learnblock.md)
 
 All commits is in the follow link:
 
-![Commits](https://github.com/ibarbech/learnbot/commits/master?author=ibarbech)
+[Commits](https://github.com/ibarbech/learnbot/commits/master?author=ibarbech)
 
 # Post
 
-1. ![Who I am? and what will I make?](https://robocomp.github.io/web/gsoc/2017/ivan/post1)
+1. [Who I am? and what will I make?](https://robocomp.github.io/web/gsoc/2017/ivan/post1)
 
-2. ![LearnBlock v.0.1](https://robocomp.github.io/web/gsoc/2017/ivan/post2)
+2. [LearnBlock v.0.1](https://robocomp.github.io/web/gsoc/2017/ivan/post2)
