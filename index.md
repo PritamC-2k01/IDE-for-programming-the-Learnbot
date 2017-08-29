@@ -18,6 +18,8 @@ All commits is in the follow link:
 
 2. [LearnBlock v.0.1](https://robocomp.github.io/web/gsoc/2017/ivan/post2)
 
+3. [LearnBlock v.0.2](https://robocomp.github.io/web/gsoc/2017/ivan/post3)
+
 # Improvements for the following versions.
 
 1. Add event-oriented programming.
